@@ -1,6 +1,8 @@
 ## Bem vindos ao meu perfil 💚
 Meu nome é Giovana Bonke
 
--estou estudando na Alura
--estou aprendendo sobre a linguagem JavaScripit
--uso esse espaço para a minha organização e compartilhamneto dos meus projetos desenvolvidos
+- Sou estudante da [Alura](https://www.alura.com.br)
+- estou me desnvolvendo na linguagem JavaScript
+- utilizo esse espaço para me organizar e compartilhar os meus projetos desenvolvidos
+
+  ![](https://media1.tenor.com/m/7LY-32GspBwAAAAC/giraffe-eating.gif)
